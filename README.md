@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an experienced developer and data scientist based in UAE with a craze for AI/ML innovations.</p>
+<p align="left">I'm an experienced developer and AI Enthusiast based in UAE with a craze for AI/ML innovations.</p>
 
 ###
 
