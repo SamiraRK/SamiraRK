@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Currently working on a project related potential of AI in sustainability  <br>🍀 Learning Deep Learning and more..<br>🎨 Using my skills to turn imagination into reality.</p>
+<p align="left">💻 Currently working on a project related to the potential of AI in sustainability  <br>🍀 Learning Deep Learning and more..<br>🎨 Using my skills to turn imagination into reality.</p>
 
 ###
 
