@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an experienced developer and AI Enthusiast based in UAE with a craze for AI/ML innovations.</p>
+<p align="left">I'm an AI Engineer based in UAE with a craze for building random but Useful innovations.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Currently working on a project related to the potential of AI in sustainability  <br>🍀 Learning Deep Learning and more..<br>🎨 Using my skills to turn imagination into reality.</p>
+<p align="left">💻 Worked on a projects related to the potential of AI in sustainability  <br>🍀 Learning Deep Learning and more..<br>🎨 Using my skills to turn imagination into reality.</p>
 
 ###
 
