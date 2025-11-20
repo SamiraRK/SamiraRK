@@ -128,7 +128,7 @@
 
 ###
 
-<p align="left">⭐ My motto? "Life is tough, but so am i!"<br>⭐ I love learning about the most random topics at times<br>⭐ I'm also a big fan of sports anime and k-drama</p>
+<p align="left">⭐ My motto? Live like there is no tomorrow</p>
 
 ###
 
